@@ -1,0 +1,6 @@
+mods/spaces-glyph/main.js, mods/picker-glyph/main.js and everything in mods/workspace-chrome-glyph
+are modified copies of mods shipped with Herdr (https://github.com/herdrdev/herdr), Apache-2.0
+(see LICENSE). The changes are the edit lists in mods/spaces-glyph/sync.mjs.
+
+The glyphs in mods/spaces-glyph/glyphs/ are from Lucide (https://lucide.dev), ISC
+(see mods/spaces-glyph/glyphs/LICENSE-Lucide.txt).
